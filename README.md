@@ -44,8 +44,11 @@ NPM and node.js is needed to install and run.
 
 
 
-Run following in console.
-1.   "npm i taapi web3 graceful-fs dotenv binance-api-node"
-2.   Fill out env file! Save as .env
-3.   Use command "Node RSIPred.js"
-4.   Remember to claim rewards since this is not included in the trial version!
+Instructions!
+
+1.   Download RSIPredOb.js
+2.   "npm i taapi web3 graceful-fs dotenv binance-api-node"
+3.   Get non-rate limited or private http provider for Binance Smart Chain.
+3.   Fill out env file! Save as .env
+4.   Use command "Node RSIPredOb.js"
+5.   Remember to claim rewards since this is not included in the trial version!
