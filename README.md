@@ -52,3 +52,7 @@ Instructions!
 3.   Fill out env file! Save as .env
 4.   Use command "Node RSIPredOb.js"
 5.   Remember to claim rewards since this is not included in the trial version!
+
+
+Experiment with rsi chart time values! 
+There could be better fast and slow times because our team has tried only the times listed in env example file!
