@@ -9,7 +9,7 @@ PancakeSwap Prediction game by use of RSI Crossover!
 
 
 
-**Trial Version** Will not claim reawards! 
+**Trial Version** Will not claim rewards! 
 Full version with reward claiming is for sale via Telegram.
 Future versions with different indicators will be for sale soon!
 
