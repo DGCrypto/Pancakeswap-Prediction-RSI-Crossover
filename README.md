@@ -12,6 +12,7 @@ PancakeSwap Prediction game by use of RSI Crossover!
 **Trial Version** Will not claim rewards! 
 Full version with reward claiming is for sale via Telegram.
 Future versions with different indicators will be for sale soon!
+Small % of bet size is charged as usage fee in the free/trial version!
 
 Telegram: https://t.me/+WRurSkMEq0RiOTRh
 
@@ -21,7 +22,7 @@ Telegram: https://t.me/+WRurSkMEq0RiOTRh
 
 ![RSI Prediction Bot Test](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/predbottest.PNG)
 
-Small Sample Prediction Bot Results on first attempt!
+Small Sample Prediction Bot Results from non optimized first testing period!
 
 ![Metamask Options to get privkey for local env file](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/options.PNG)
 
