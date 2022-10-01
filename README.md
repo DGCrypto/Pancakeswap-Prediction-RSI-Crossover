@@ -16,9 +16,8 @@ RSI CrossOver Strategy
 
 
 **Trial Version** Will not claim rewards! 
-Full version with reward claiming is for sale via Telegram.
-Future versions with different indicators will be for sale soon!
-Small % of bet size is charged as usage fee in the free/trial version!
+Future versions with different indicators will be available soon.
+Small % of bet size is charged as usage fee in.
 
 Telegram: https://t.me/+WRurSkMEq0RiOTRh
 
@@ -57,7 +56,7 @@ Instructions!
 3.   Get non-rate limited or private http provider for Binance Smart Chain.
 3.   Fill out env file! Save as .env
 4.   Use command "Node RSIPredOb.js"
-5.   Remember to claim rewards since this is not included in the trial version!
+5.   Remember to claim rewards since this is not included in this version.
 
 
 Experiment with rsi chart time values! 
