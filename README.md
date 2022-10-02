@@ -14,8 +14,13 @@ RSI CrossOver Strategy
 **# RSI PancakeSwap Prediction Bot**
 
 
+Mobile Guide:
 
-**Trial Version** Will not claim rewards! 
+https://youtu.be/5YK1UZp2T8Q
+
+
+
+**This Version** Will not claim rewards! 
 Future versions with different indicators will be available soon.
 Small % of bet size is charged as usage fee in.
 
@@ -37,7 +42,7 @@ Place private key in ENV File and Save-as ".env"
 
 [.env file](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/.env.example)
 
-Fill out .env file with web3 http provider link, taapi api key(must purchase), account address, privkey, bet size, rsi time values for fast and slow! Simulates an rsi crossover using a lower time-frame for fast and higher time-frame for slow!
+Fill out .env file with web3 http provider link, taapi api key, account address, privkey, bet size, rsi time values for fast and slow! Simulates an rsi crossover using a lower time-frame for fast and higher time-frame for slow!
 
 ![Taapi](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/taapi%20(1).PNG)
 
