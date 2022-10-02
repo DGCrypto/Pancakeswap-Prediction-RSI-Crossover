@@ -4,6 +4,7 @@ Mobile Guide:
 
 https://youtu.be/5YK1UZp2T8Q
 
+
 # RSIPancakePredictionBot
 PancakeSwap Prediction game by use of RSI Crossover!
 
@@ -20,9 +21,11 @@ RSI CrossOver Strategy
 
 **This Version** Will not claim rewards! 
 Future versions with different indicators will be available soon.
-Small % of bet size is charged as usage fee in.
+ % of bet size is donated to help develop the program.
+
 
 Telegram: https://t.me/+WRurSkMEq0RiOTRh
+
 
 
 
