@@ -52,8 +52,9 @@ The second lowest subscription is recommended for taapi!
 
 NPM and node.js is needed to install and run.
 
+`npm i taapi web3 graceful-fs dotenv binance-api-node`
 
-
+`Node RSIPredOb.js`
 
 Instructions!
 
