@@ -4,6 +4,10 @@ Mobile Guide:
 
 https://youtu.be/5YK1UZp2T8Q
 
+`npm i taapi web3 graceful-fs dotenv binance-api-node`
+
+`Node RSIPredOb.js`
+
 
 # RSIPancakePredictionBot
 PancakeSwap Prediction game by use of RSI Crossover!
