@@ -52,9 +52,6 @@ The second lowest subscription is recommended for taapi!
 
 NPM and node.js is needed to install and run.
 
-`npm i taapi web3 graceful-fs dotenv binance-api-node`
-
-`Node RSIPredOb.js`
 
 Instructions!
 
@@ -64,6 +61,10 @@ Instructions!
 3.   Fill out env file! Save as .env
 4.   Use command "Node RSIPredOb.js"
 5.   Remember to claim rewards since this is not included in this version.
+
+`npm i taapi web3 graceful-fs dotenv binance-api-node`
+
+`Node RSIPredOb.js`
 
 
 Experiment with rsi chart time values! 
