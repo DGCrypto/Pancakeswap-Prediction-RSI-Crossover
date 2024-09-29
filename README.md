@@ -22,7 +22,6 @@ PancakeSwap Prediction game by use of RSI Crossover!
 
 ![RSI Prediction Bot](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/IMG_0183.jpg)
 ***
-![Console Bet Log](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/RSIPredBotConsole.png)
 
 ![RSI CrossOver Strategy](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/E3BFD33A-8C91-464E-ABDE-D0A574A74786.jpeg)
 
