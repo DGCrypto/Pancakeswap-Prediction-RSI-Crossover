@@ -47,7 +47,7 @@ Small Sample Prediction Bot Results from non optimized first testing period!
 
 ![Export PrivateKey](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/exportprivkey.PNG)
 
-Place private key address in ENV File and Save-as ".env"
+Place private key and wallet address in ENV File and Save-as ".env"
 
 `PRIVATE_KEY=#` indent to new line and add WALLET_ADDRESS
 `WALLET_ADDRESS=#`
