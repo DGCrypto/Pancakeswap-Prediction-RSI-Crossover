@@ -14,7 +14,7 @@ Use of this program constitutes your full acceptance of these terms.
 
 `npm i web3 axios dotenv readline`
 
-`Node RSIPredOb.js`
+`Node index.js`
 
 
 # RSIPancakePredictionBot
@@ -65,7 +65,7 @@ Instructions!
 1.   Download imdex.js
 2.   "npm i web3 axios dotenv readline"
 3.   Fill out env file! Save as .env
-4.   Use command "Node Index.js"
+4.   Use command "Node index.js"
 
 `npm i web3 axios dotenv readline`
 
@@ -73,3 +73,5 @@ Instructions!
 
 
 Rsi thresholds for crossocer are up to user discretion.
+
+Recommend starting program with 1 minute before next round as oracle timing isn't implemented yet.
