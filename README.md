@@ -1,10 +1,18 @@
 ![DG Crypto](https://github.com/DGCrypto/PancakeSwap-Prediction-Bot-FREE/blob/main/CE5F5D29-F518-418F-BF5A-83848D64D4D4.jpeg)
 
-Mobile Guide:
+Disclaimer of Liability:
 
-https://youtu.be/5YK1UZp2T8Q
+By using this program, scripts, code, or repository, you acknowledge and agree to the following:
 
-`npm i taapi web3 graceful-fs dotenv binance-api-node`
+All investment strategies and investments inherently involve risks, including the potential for financial loss.
+Nothing contained within this program, scripts, code, or repository should be interpreted as financial or investment advice, nor should it serve as a recommendation to make any specific financial decision.
+Any references to past or potential investment performance are for informational purposes only and do not guarantee any particular result or outcome.
+You assume full responsibility for any decisions or actions taken based on your use of this program, and you acknowledge that you are solely responsible for any financial outcomes, whether positive or negative.
+The developers of this program, as well as any contributors, collaborators, or affiliates, disclaim any and all liability related to the use, performance, or outcomes of this program.
+By using this program, you agree to hold harmless the developers and any associated parties from any claims, losses, damages, or liabilities, financial or otherwise, arising from your use of this program or any reliance on the information or functionality provided.
+Use of this program constitutes your full acceptance of these terms.
+
+`npm i web3 axios dotenv readline`
 
 `Node RSIPredOb.js`
 
@@ -23,12 +31,9 @@ RSI CrossOver Strategy
 **# RSI PancakeSwap Prediction Bot**
 
 
-**This Version** Will not claim rewards! 
+**This Version** Will claim rewards! 
 Future versions with different indicators will be available soon.
- % of bet size is donated to help develop the program.
-
-
-Telegram: https://t.me/+WRurSkMEq0RiOTRh
+ % of profit is donated to help develop the program.
 
 
 
@@ -43,15 +48,14 @@ Small Sample Prediction Bot Results from non optimized first testing period!
 
 ![Export PrivateKey](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/exportprivkey.PNG)
 
-Place private key in ENV File and Save-as ".env"
+Place private key address in ENV File and Save-as ".env"
+
+`PRIVATE_KEY=#
+WALLET_ADDRESS=#`
 
 [.env file](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/.env.example)
 
-Fill out .env file with web3 http provider link, taapi api key, account address, privkey, bet size, rsi time values for fast and slow! Simulates an rsi crossover using a lower time-frame for fast and higher time-frame for slow!
-
-![Taapi](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/taapi%20(1).PNG)
-
-The second lowest subscription is recommended for taapi!
+Fill out .env file with account address, privkey.
 
 
 NPM and node.js is needed to install and run.
@@ -59,17 +63,14 @@ NPM and node.js is needed to install and run.
 
 Instructions!
 
-1.   Download RSIPredOb.js
-2.   "npm i taapi web3 graceful-fs dotenv binance-api-node"
-3.   Get non-rate limited or private http provider for Binance Smart Chain.
+1.   Download imdex.js
+2.   "npm i taapi web3 axios dotenv readline"
 3.   Fill out env file! Save as .env
-4.   Use command "Node RSIPredOb.js"
-5.   Remember to claim rewards since this is not included in this version.
+4.   Use command "Node Index.js"
 
-`npm i taapi web3 graceful-fs dotenv binance-api-node`
+`npm i web3 axios dotenv readline`
 
-`Node RSIPredOb.js`
+`Node index.js`
 
 
-Experiment with rsi chart time values! 
-There could be better fast and slow times because our team has tried only the times listed in env example file!
+Rsi thresholds for crossocer are up to user discretion.
