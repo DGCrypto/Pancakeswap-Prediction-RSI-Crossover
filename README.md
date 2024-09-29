@@ -62,7 +62,7 @@ NPM and node.js is needed to install and run.
 
 Instructions!
 
-1.   Download imdex.js
+1.   Download index.js
 2.   "npm i web3 axios dotenv readline"
 3.   Fill out env file! Save as .env
 4.   Use command "Node index.js"
