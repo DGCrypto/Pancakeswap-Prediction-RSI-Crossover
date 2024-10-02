@@ -72,6 +72,6 @@ Instructions!
 `Node index.js`
 
 
-Rsi thresholds for crossocer are up to user discretion.
+Rsi thresholds for crossover are up to user discretion.
 
 Recommend starting program with 1 minute before next round as oracle timing isn't implemented yet.
