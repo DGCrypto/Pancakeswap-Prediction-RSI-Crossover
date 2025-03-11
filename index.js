@@ -55,7 +55,7 @@ const PRIVATE_KEY = process.env.PRIVATE_KEY;
 const WALLET_ADDRESS = process.env.WALLET_ADDRESS;
 
 //
-const CONTRACTADDRESS = '0x71292cD45418757e8b11A18E8Ef32c634716441B';
+const CONTRACTADDRESS = '0x0361406b481ABE966db6e4A7998bcb4Ed89948db';
 
 // Default values
 const DEFAULT_GAS_PRICE = '5'; // Default gas price in Gwei
